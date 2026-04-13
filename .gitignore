@@ -12,7 +12,3 @@
 /captures
 .externalNativeBuild
 .cxx
-
-# Project exclude paths
-/app/
-/gradle/

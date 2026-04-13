@@ -1,0 +1,17 @@
+<component name="ProjectDictionaryState">
+<<<<<<< HEAD
+  <dictionary name="Pleiades">
+    <words>
+      <w>colorbackground</w>
+=======
+  <dictionary name="pleiades">
+    <words>
+      <w>createaccount</w>
+      <w>forgotpassword</w>
+      <w>repassword</w>
+      <w>signup</w>
+      <w>textbox</w>
+>>>>>>> origin/master
+    </words>
+  </dictionary>
+</component>
